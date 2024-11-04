@@ -7,7 +7,7 @@ export const Body = () => {
       <img src={stopwatch} alt="Stopwatch" className="w-full h-auto " />
       <div className="absolute inset-0 flex items-center justify-center">
         <p className="text-white text-5xl font-bold text-center">
-          The best <span className="text-blue-600">Counter App</span> Ever Made
+          The best <span className="text-blue-500">Counter App</span> Ever Made
         </p>
       </div>
     </div>
